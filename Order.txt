@@ -1,0 +1,2 @@
+1 6 0 job acasa Bogdan 1 False
+2 3 0 job acasa Alinutza 1 True
